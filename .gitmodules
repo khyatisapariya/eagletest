@@ -1,3 +1,6 @@
 [submodule "/home/khyatis/Practice/eagletest/subproject/project1"]
 	path = /home/khyatis/Practice/eagletest/subproject/project1
 	url = git@github.com:khyatisapariya/project1.git
+[submodule "subproject/project2"]
+	path = subproject/project2
+	url = git@github.com:khyatisapariya/project2.git
