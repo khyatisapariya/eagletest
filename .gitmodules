@@ -1,0 +1,3 @@
+[submodule "/home/khyatis/Practice/eagletest/subproject/project1"]
+	path = /home/khyatis/Practice/eagletest/subproject/project1
+	url = git@github.com:khyatisapariya/project1.git
